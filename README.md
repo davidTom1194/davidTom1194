@@ -1,0 +1,70 @@
+### Hi there 👋
+Hi there! I’m a 🌱 computer science student who is passionate about problem-solving and launching a successful career in the IT industry.
+I’m always looking to expand my knowledge and skills in various 💬 programming languages and technologies.
+I’m known for my effective communication and collaboration skills and I work well in team-based environments.
+I love analyzing complex technical issues and providing innovative solutions.
+I’m enthusiastic about applying theoretical knowledge to real-world IT scenarios while delivering outstanding results.
+I’m committed to delivering high-quality work with a keen eye for detail and a strong work ethic.
+I’m 🔭 seeking an entry-level IT position where I can 👯 contribute to a dynamic organization and gain practical experience in IT operations, system administration, and software development.
+
+  - Please reach out to my email:
+    - David Tom
+    - 📫 davidtom1194@gmail.com
+
+- ❤ Ask me about collaborating on new and exciting technologies!
+- ⚡ Fun fact: Nevada is the most mountainous regions in North America and produces 80% of the gold in the United States!
+
+Feel free to use my public key to secure and verify any messages:
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBGTLWfIBEACzyg4kxjYkD8tR7/IZbMZD7H+IeIIF3evUA77UPH4ORUyuf/AU
++q8crQ98YJ3XaLS39VgwA2c/c50xPSlc07KtBCRo0Y2P7kb6sfnyo1wKMHcuJoLo
+Wv2xnoNKwV8rkq5GjE2en4hG8pqSW/j0oQNPyiwztyIww0q1rGa1WahVnHR1srgy
+EPm2UwqfRYIjz44S3aM++bYmk+CLEpdD51JYqIavuEGIU9Ps4TVo6BNBmzgta3TG
+EEc7o0gJevJc9DSfFc6y5jt6JKReIinHLBkj1nMpJnKUsvRBZZAHAkcBedv376dA
+r57YQiL70HELRrs3xb0CZx+nPIVyJO8pshe/ESHJmggK8WaEunJSo6my7bDrz2ax
+luJfqIrmLZJ7RWk70/ZEKLj7FsMjA+u9BgJuD4HsC/NnvJYkdW6V2AUXHBc+vleO
+mCb604MjhcvEjf84TS7TDa0iM5a1lz3MBFMiddtkSW49kxU7gj9rHzxpabCsJke7
+I99i87UPsKzP9vBLzo4FLuAC6be5uURMeDYLzMl04FlCyUuVwrWRObfflzdsFFeL
+7raZ2Mg8ufNPsJUX6FLSLyjllIpU1AiFNKc/jiFUsF8bb2rBZLFvcpgivpZy9zov
+mRIcduEb+zUq2Gy9CFQ9XXnIrCKSz32pRS+TIrjotVgLMh/82XAqWo3j7wARAQAB
+tCJEYXZpZCBUb20gPGRhdmlkdG9tMTE5NEBnbWFpbC5jb20+iQJXBBMBCABBFiEE
+gcfcz5bFA+E9TcieHuct293ByykFAmTLWfICGwMFCQWliz4FCwkIBwICIgIGFQoJ
+CAsCBBYCAwECHgcCF4AACgkQHuct293ByynJ/g/9FjULlIHwrE7ADUe/0Ab65tyb
+Nntqj/dY+TRm5sD5kaRET3D6kBX/90TyJ07uPxguBtoMZ9zg+pXbRpNwlLSXSskA
+6z8DpaaVdScVAIprowTfLmzmvnS72yUR8xFhpanXoRgtsJZpMeKBhLI97BT1OPKm
+e7fokKbEpavFwU1G5lz6cVD0jjObqzgAQcUGIrEupyKkVVkj43uBJlIR88QNs9t6
+8Zag0GlVXpu6ulpu16IKVBQ87l/QjtXvZDgSPoZZBzGgdwfr+tCXMHuyqHrq58Ql
+/sc0t5AgxZ2/huFz0WCppn/R4pTw8NZAJWkrRZUJSXcBgsTeRZFbRJhDFztUEd/R
+iXpvBwy2lf9YDJ2yvzdOBPdv3s09S7ZhBZpdV09WKH0pl6PM3sfxJvvWzvSDh8I+
+EJMEV5BpZgtfCx+iVdlSym2itEBpaSgJV/WugJ0rjG5A0KxoRfKeaGo7xNUiR2dR
+X5fdNNrWbDHVi6/gmM5IIzLHt87KJfBSMpOHyCUB9SutLA2ZxI1y1LDSxCQ0go9I
+hdigNbKO7WUkeMTQ5N6o7iYaj8o+rph9qigUgYzhixspnVOsNEktpcuITmB+L/g6
+rcycDs6WftcGu0CQ8kHC+MVzSg+ZuBKzz0cgPggwvn+WBK1GCoRFpqav6sORW1MD
+OuzX5Tn5WraSSC77A425Ag0EZMtZ8gEQALGE8+wS81yab8XaTDJ77iKOix13W0qF
+hw2V/np6/rkrsDfRahpIBI9IsV0i8T8t8633dSZhBfg86kfveST2ErpGo6iIwgBU
+ATEe2XQYAEG9HH2sX9r187/9Q0/zpJFszvt2Yh4GgMZ29q55EiAJ/PtRLqsjegtm
+4CCaUpvP3vEW/albYuo7et0AqKk2bT275CcoOpJQEPkajNtz76HqqqKX+TG7QqqE
+8XVatc0IIy+p3vGzlwxihi8+jNnq3nHo6+EOH0c1NbVcbnClx57wxzfQN+dhUScq
+u2/zoKETX68znhSeZQHo6u78aLzFyUOWMdTIXv83EvszrQJEggh546Pg89TIEckl
+8qaESVjOO5Ejla/i2RVgg9+dAQ7l19Ic4Fmi4hfSk6EH87kyISc0Fi/5rAxD8nPK
+AAi5f5Ot3AuNlwr+vXoQdArJCM5uWeInLN1Ur+jhJuXPH5+r3Eo3IFxfLcWFd8Sw
++ySZn1B/aZmOe99OegiDLorDHJ4dy9FRaQUlZO+DPum15jo+NjFwF3rc4TyejWCP
+GW/zs8olVo0VjjkAWKR8yrSXjGZxKyITsKNF+Xg1F8kbHjPOP9MbrR/nSCtFd/03
+TcK4ed71vm2Lht8B9DW2GWEDJO0YPkw/LWb/pytm8/A+dbv8JNmAZg46x2tZBnXB
+Y6iBbc5dJAznABEBAAGJAjwEGAEIACYWIQSBx9zPlsUD4T1NyJ4e5y3b3cHLKQUC
+ZMtZ8gIbDAUJBaWLPgAKCRAe5y3b3cHLKSi7D/sH7WRoEojpXM4rdkOwwH/6eefG
+jPndTAH+SVq6ts1srTz19zF7GzqQXTiY+5dueSR6iE9BMw7XqhbnJPaSJpJ4jMyd
+p1uf/6Dtzzjc+0AVzuSE8flL97Yk0RyLFh1egSv2Y7/HlNzENtB8kMnyg3TxpwTm
+PRSdzLqZETqVh2mwdc16vqjSMgmegofN03GpLBROkjFURY16bWWYhFGVJYyEdwzj
+NS3Z7duKPLNGKl88S15vDnhgRBOiuiiBUTGfacHmAgcKAAUen85Vae9UYScEu6Zu
+9yI6+bdrpAsD+REnMH0BnxD4lNWmEQl6n++TMQ8HAc/uVFNhioUZzf05S1RaAVC8
+76oh1j6vNQQrjucJWvV/lqPqrq2OM9gIydpCPf02RDUHOk8SSrDhmt9hgqN1dK6T
+YBUP95qnV57mVPbWwgxSpBZeiN5KfQ5NFiA3SaLHMw/wk6MADV9pyWctG6+201aw
+xclR0sipAJyRiBZYYFz0hQuUgzt1rLVfm/Yp81wsnA70KWqwvXhR7A8u485xnFDX
+LVJrMJ0qpfDiNUrW26NkQppzi7OebJqShz7npD2AyEr5L5zq+hfnKwImkFAu4uQT
+OdxVjVHznNrrkoVPv0+QxPtux9gKMde1Bjk4fsuIKPiR09WDSk0my8vLna98Snld
+lUcEWur0Mc48JJUfrQ==
+=XvLe
+-----END PGP PUBLIC KEY BLOCK-----
